@@ -1,0 +1,25 @@
+# Ignore .DS_Store files
+.DS_Store
+
+# Ignore a specific file
+Chess Pieces.v24-416x416_aug.yolov8
+flagged
+image/Chess Pieces.v1i.coco
+image/Chess Pieces.v1i.yolov8
+
+model/RT-DETR
+model/RTDETR_MOD
+model/yolo8
+model/yolo8_MOD
+model/yolo9_
+model/yolo10_MOD
+model/yolo10
+runs/detect
+Video/modify
+Video/modifyV2
+Video/original
+Video/TrainVideo
+Video/modify
+Video/modifyV2
+Video/original
+Video/TrainVideo
